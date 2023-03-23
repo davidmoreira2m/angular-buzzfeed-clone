@@ -1,5 +1,4 @@
 .quiz__container {
-  border: 1px solid white;
   width: 80%;
   margin: 20px auto;
 }
@@ -36,13 +35,14 @@
   justify-content: center;
   margin: auto;
   margin-bottom: 20px;
+  gap: 10px;
 }
 
 .btn-option {
   background-color: transparent;
   border-radius: 8px;
   border: 1px solid #18ab29;
-  width: 50%;
+  width: 45%;
   display: inline-block;
   cursor: pointer;
   color: #fff;
